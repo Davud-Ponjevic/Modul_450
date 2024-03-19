@@ -1,0 +1,14 @@
+C:\Github\Modul_450\Praxisarbeit\obj\Debug\net8.0\Praxisarbeit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\Modul_450\Praxisarbeit\obj\Debug\net8.0\Praxisarbeit.AssemblyInfoInputs.cache
+C:\Github\Modul_450\Praxisarbeit\obj\Debug\net8.0\Praxisarbeit.AssemblyInfo.cs
+C:\Github\Modul_450\Praxisarbeit\obj\Debug\net8.0\Praxisarbeit.csproj.CoreCompileInputs.cache
+C:\Github\Modul_450\Praxisarbeit\bin\Debug\net8.0\Praxisarbeit.exe
+C:\Github\Modul_450\Praxisarbeit\bin\Debug\net8.0\Praxisarbeit.deps.json
+C:\Github\Modul_450\Praxisarbeit\bin\Debug\net8.0\Praxisarbeit.runtimeconfig.json
+C:\Github\Modul_450\Praxisarbeit\bin\Debug\net8.0\Praxisarbeit.dll
+C:\Github\Modul_450\Praxisarbeit\bin\Debug\net8.0\Praxisarbeit.pdb
+C:\Github\Modul_450\Praxisarbeit\obj\Debug\net8.0\Praxisarbeit.dll
+C:\Github\Modul_450\Praxisarbeit\obj\Debug\net8.0\refint\Praxisarbeit.dll
+C:\Github\Modul_450\Praxisarbeit\obj\Debug\net8.0\Praxisarbeit.pdb
+C:\Github\Modul_450\Praxisarbeit\obj\Debug\net8.0\Praxisarbeit.genruntimeconfig.cache
+C:\Github\Modul_450\Praxisarbeit\obj\Debug\net8.0\ref\Praxisarbeit.dll
