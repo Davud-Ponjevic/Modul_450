@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "xBnMLkd9mAr3FEIjcz/G60+9u7JP5w0yoJyXxFE/TlEVSXJC6pucGJBn9wkvAiDjJ0sBJxKEros4pJJEfiURzg==",
+  "dgSpecHash": "OqOgo/jP5I2UucbzMtOfst2uZftXcs5Z9Y7yoIXA84dsPYr/tRV+t4fcHuFQaL88qt1GucsqmzyZUVKOyl8sVA==",
   "success": true,
   "projectFilePath": "C:\\Github\\Modul_450\\Praxisarbeit\\Praxisarbeit.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\davud\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\davud\\.nuget\\packages\\moq\\4.20.70\\moq.4.20.70.nupkg.sha512",
+    "C:\\Users\\davud\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512",
+    "C:\\Users\\davud\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

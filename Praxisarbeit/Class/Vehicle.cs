@@ -1,4 +1,5 @@
 ﻿using Praxisarbeit.Interfaces;
+using System;
 
 namespace Praxisarbeit.Class
 {
@@ -7,7 +8,7 @@ namespace Praxisarbeit.Class
         public string Name { get; set; }
         public int MaxCapacity { get; set; }
         public int FreeSpace { get; private set; }
-        public ILocation CurrentLocation { get; set; } // Hier wird das Interface ILocation verwendet
+        public ILocation CurrentLocation { get; set; }
         Location IVehicle.CurrentLocation { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
 
         public Vehicle(string name, int maxCapacity, ILocation initialLocation)
@@ -22,25 +23,24 @@ namespace Praxisarbeit.Class
         {
             if (FreeSpace >= 1)
             {
-                Console.WriteLine($"Container geladen auf {Name}.");
+                Console.WriteLine($"Container loaded onto {Name}.");
                 FreeSpace--;
             }
             else
             {
-                Console.WriteLine($"Kein Platz mehr auf {Name} für weitere Container.");
+                Console.WriteLine($"No more space on {Name} for additional containers.");
             }
         }
 
         public void MoveTo(ILocation location)
         {
-            Console.WriteLine($"{Name} bewegt sich zum Standort ({location.X}, {location.Y}).");
-            // Aktualisieren der aktuellen Position des Fahrzeugs
+            Console.WriteLine($"{Name} moving to location ({location.X}, {location.Y}).");
             CurrentLocation = location;
         }
 
         public void Unload()
         {
-            Console.WriteLine($"Container entladen von {Name}.");
+            Console.WriteLine($"Container unloaded from {Name}.");
             FreeSpace = MaxCapacity;
         }
 

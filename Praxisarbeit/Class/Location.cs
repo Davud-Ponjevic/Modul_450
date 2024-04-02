@@ -1,6 +1,7 @@
 ﻿using Praxisarbeit.Class;
 using Praxisarbeit.Interfaces;
 using System;
+using NUnit.Framework;
 namespace Praxisarbeit.Class;
 
 public class Location : ILocation

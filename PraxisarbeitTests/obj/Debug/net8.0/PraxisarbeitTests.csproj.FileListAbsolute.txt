@@ -1,0 +1,7 @@
+C:\Github\Modul_450\PraxisarbeitTests\bin\Debug\net8.0\CoverletSourceRootsMapping_PraxisarbeitTests
+C:\Github\Modul_450\PraxisarbeitTests\obj\Debug\net8.0\PraxisarbeitTests.csproj.AssemblyReference.cache
+C:\Github\Modul_450\PraxisarbeitTests\obj\Debug\net8.0\PraxisarbeitTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\Modul_450\PraxisarbeitTests\obj\Debug\net8.0\PraxisarbeitTests.AssemblyInfoInputs.cache
+C:\Github\Modul_450\PraxisarbeitTests\obj\Debug\net8.0\PraxisarbeitTests.AssemblyInfo.cs
+C:\Github\Modul_450\PraxisarbeitTests\obj\Debug\net8.0\PraxisarbeitTests.csproj.CoreCompileInputs.cache
+C:\Github\Modul_450\PraxisarbeitTests\obj\Debug\net8.0\PraxisarbeitTests.sourcelink.json
